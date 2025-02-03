@@ -1,0 +1,19 @@
+body {
+	background-color: white;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.style {
+	background-color: lightblue;
+	display: flex;
+	flex-direction: column;
+    border-radius: 10px;
+    margin: auto; 
+    padding: 20px;
+}
+
+input, button {
+  margin: auto;
+}
